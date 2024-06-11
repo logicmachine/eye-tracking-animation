@@ -1,0 +1,21 @@
+{
+  "name": "dev.logilabo.eye-tracking-animation",
+  "displayName": "Eye Tracking Animation",
+  "version": "0.0.1",
+  "unity": "2022.3",
+  "description": "Yet Another Animator for Eye Tracking",
+  "author": {
+    "name": "logi",
+    "email": "ent@arrize.net",
+    "url": "https://logilabo.dev/"
+  },
+  "vpmDependencies": {
+    "nadena.dev.ndmf": ">=1.4.0 <2.0.0-a",
+    "nadena.dev.modular-avatar": ">=1.9.0 <2.0.0-a",
+    "dev.hai-vr.animator-as-code.v1": "1.0.X",
+    "dev.hai-vr.animator-as-code.v1.modular-avatar": "1.0.X",
+    "dev.hai-vr.animator-as-code.v1.ndmf-processor": "1.0.X",
+    "dev.hai-vr.animator-as-code.v1.vrchat": "1.0.X",
+    "dev.logilabo.parameter-smoother": "*"
+  }
+}

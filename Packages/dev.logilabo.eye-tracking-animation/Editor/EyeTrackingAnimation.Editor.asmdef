@@ -1,0 +1,26 @@
+{
+    "name": "dev.logilabo.eye-tracking-animation.editor",
+    "rootNamespace": "",
+    "references": [
+        "nadena.dev.ndmf",
+        "nadena.dev.ndmf.vrchat",
+        "nadena.dev.modular-avatar.core",
+        "AnimatorAsCode.V1",
+        "AnimatorAsCode.V1.ModularAvatar",
+        "AnimatorAsCode.V1.NDMFProcessor",
+        "AnimatorAsCode.V1.VRChat",
+        "ParameterSmoother.Runtime",
+        "dev.logilabo.eye-tracking-animation.runtime"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
