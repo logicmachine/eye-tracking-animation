@@ -14,7 +14,7 @@ namespace dev.logilabo.eye_tracking_animation.editor
     public class EyeTrackingSmootherPlugin : Plugin<EyeTrackingSmootherPlugin>
     {
         public override string DisplayName => "EyeTrackingSmoother";
-        public override string QualifiedName => "dev.logilabo.eye-tracking-controller.smoother";
+        public override string QualifiedName => "dev.logilabo.eye-tracking-animation.smoother";
 
         protected override void Configure()
         {
